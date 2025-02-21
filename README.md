@@ -17,6 +17,8 @@ Método de ataque: Site Cloner
 Obtendo o endereço da máquina: ifconfig
 URL para clone: http://www.facebook.com
 
+
+
 Resutados
 ![image](https://github.com/user-attachments/assets/02d929f8-4de1-4404-850e-55940e478815)
 
